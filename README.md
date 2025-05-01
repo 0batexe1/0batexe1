@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Hacking GIF" width="300">
+  <img src="https://media.giphy.com/media/zJLoYse8pU6vO5jdu6/giphy.gif" alt="Matrix Code GIF" width="300">
 </p>
 
 ---
