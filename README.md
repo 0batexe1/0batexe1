@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26uf2YTg7C4vP4QA8/giphy.gif" alt="Hacker Terminal GIF" width="300">
+  <img src="[https://media.giphy.com/media/26uf2YTg7C4vP4QA8/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk5bWszdW45dmtmMXJ5dmp4cWhrZ2JqZnY3aW5rM2hiYm80YWwxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif)" alt="Hacker Terminal GIF" width="300">
 </p>
 
 ---
