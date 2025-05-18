@@ -1,5 +1,5 @@
 
-<h1 align="center">👾 0batexe1</h1>
+<h1 align="center">👾 0bat.exe1</h1>
 <p align="center">
 
 </p>
@@ -24,10 +24,7 @@
 
 ### 📈 My Contribution Chart
 ![Contributions](https://ghchart.rshah.org/0batexe1)
-![3D Contributions](https://github-profile-3d.vercel.app/api?username=0batexe1)
 
-### 🐦 Last Tweet
-![Latest Tweet](https://github-readme-twitter.gazf.net/tweet?username=0bat.exe1)
 
 ### 💻 Cyber ​​Security News Feed
 - [Latest CVEs](https://cve.mitre.org/)
