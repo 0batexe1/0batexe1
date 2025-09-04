@@ -1,6 +1,6 @@
 <h1 align="center">👾 0bat.exe1</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=#dc143c&center=true&vCenter=true&width=435&lines=Cyber+Security+Researcher;Bug+Hunter;Exploit+Developer;Always+Learning+%26+Breaking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=dc143c&center=true&vCenter=true&width=435&lines=Cyber+Security+Researcher;Bug+Hunter;Exploit+Developer;Always+Learning+%26+Breaking" alt="Typing SVG" />
 </p>
 
 ---
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,kali,bugcrowd,hackerone,tryhackme,hackthebox,docker,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,kali,docker,arduino,raspberrypi" />
 </p>
 
 ### 💻 Cyber Security News Feed
