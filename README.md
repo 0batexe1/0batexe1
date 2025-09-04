@@ -1,7 +1,7 @@
 <h1 align="center">👾 0bat.exe1</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=500&color=00FF7F&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Cyber+Security+Researcher;Bug+Bounty+Hunter" alt="" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=500&color=00FF7F&center=true&vCenter=true&multiline=true&width=700&height=90&lines=$+Initializing+Recon...;>+Scanning+Targets...;>+Loading+Payloads..." alt="Hacker Terminal Typing" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=burpsuite,zap,sqlmap,nmap,metasploit,kali,wireshark,nikto,hashcat,nessus,exploitdb" />
+  <img src="https://skillicons.dev/icons?i=burpsuite,sqlmap,nmap,owasp,zap,kali,metasploit,nessus,wireshark,hashcat,aircrack-ng,nikto" />
 </p>
 
 
