@@ -1,11 +1,11 @@
 <h1 align="center">👾 0bat.exe1</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=500&color=00FF7F&background=000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Cyber+Security+Researcher;WebAppSec+Enthusiast;Exploit+Developer" alt="Neon Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=500&color=00FF7F&background=000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Cyber+Security+Researcher;Bug+Bounty+Hunter" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3poNDRiZjEyOXQ2NGJwMGl4OTc1cnBzajhwMHZrNG80ZzBkOGFjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnSWYZvafyhEACBO/giphy.gif" width="700" alt="Hacker GIF" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3poNDRiZjEyOXQ2NGJwMGl4OTc1cnBzajhwMHZrNG80ZzBkOGFjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnSWYZvafyhEACBO/giphy.gif" width="700" alt="" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=burpsuite,owasp,python,linux,bash,git,docker,js,html,kali,metasploit,sqlmap,nmap,zap,raspberrypi,arduino" />
+  <img src="https://skillicons.dev/icons?i=burpsuite,owasp,hackerone,bugcrowd,python,linux,bash,github,docker,js,html,kali,metasploit,hackthebox,tryhackme" />
 </p>
 
 ---
