@@ -1,7 +1,7 @@
 <h1 align="center">👾 0bat.exe1</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&height=120&lines=💀+Web+Application+Security+Researcher;⚡+Exploits+%26+Offensive+Security;🌐+Bug+Hunter;🚀+Always+Breaking+to+Secure" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=500&color=00FF7F&background=000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Cyber+Security+Researcher;WebAppSec+Enthusiast;Exploit+Developer" alt="Neon Typing Animation" />
 </p>
 
 <p align="center">
@@ -10,19 +10,19 @@
 
 ---
 
-## 🛠️ WebAppSec Skills
+### 🛠️ WebAppSec Skills (Modern Neon)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=600&color=00FF00&multiline=true&width=600&height=120&lines=%24+SQLi+-+Union%2FError%2FBlind;>+XSS+-+Reflected%2C+DOM%2C+Stored;>+CSRF+-+Exploitation+%26+Bypass;>+IDOR+-+Access+Control+Abuse;>+SSRF+-+Request+Smuggling;>+RCE+-+File+Upload%2C+Command+Injection" alt="Skills Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF,FF00FF,FFFF00&center=true&vCenter=true&multiline=true&width=700&height=90&lines=OWASP+Top+10+Review;Secure+Coding+Practices;API+Security+Testing" alt="Modern Skills Typing Animation"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=burpsuite,python,linux,bash,git,docker,js,html" />
+  <img src="https://skillicons.dev/icons?i=burpsuite,owasp,python,linux,bash,git,docker,js,html,kali,metasploit,sqlmap,nmap,zap,raspberrypi,arduino" />
 </p>
 
 ---
 
-## 📰 Cyber Security News
+### 🌐 Cyber Security News (Visual)
 
 <p align="center">
   <a href="https://cve.mitre.org/">
@@ -38,11 +38,11 @@
 
 ---
 
-## 📊 Dashboard
+### 📊 Hacker Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0batexe1&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0batexe1&layout=compact&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0batexe1&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00FF7F&icon_color=FF00FF&text_color=00FFFF" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0batexe1&layout=compact&theme=radical&hide_border=true&title_color=00FF7F&icon_color=FF00FF&text_color=00FFFF" height="150" />
 </p>
 
 <p align="center">
@@ -51,5 +51,5 @@
 
 ---
 
-## 🧠 Hacker Quote
+### 🧠 Hacker Quote
 > "The quieter you become, the more you are able to hear." — Kali Linux
