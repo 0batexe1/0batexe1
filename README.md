@@ -12,9 +12,7 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF,FF00FF,FFFF00&center=true&vCenter=true&multiline=true&width=700&height=90&lines=OWASP+Top+10+Review;Secure+Coding+Practices;API+Security+Testing" alt="Modern Skills Typing Animation"/>
-</p>
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=burpsuite,owasp,hackerone,bugcrowd,python,linux,bash,github,docker,js,html,kali,metasploit,hackthebox,tryhackme" />
