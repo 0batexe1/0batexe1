@@ -15,12 +15,14 @@
 
 
 ---
+<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+ 
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=coffinxp&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/coffinxp/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/coffinxp/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
-
-### 📊 My GitHub Statistics
-![Stats](https://github-readme-stats.vercel.app/api?username=0batexe1&show_icons=true&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0batexe1&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=0batexe1&theme=radical)
+<br><br>
 
 ### 📈 My Contribution Chart
 ![Contributions](https://ghchart.rshah.org/0batexe1)
