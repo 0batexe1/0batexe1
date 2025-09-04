@@ -1,51 +1,39 @@
 <h1 align="center">👾 0bat.exe1</h1>
-
-
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Cyber+Security+Researcher;Bug+Hunter;Exploit+Developer;Always+Learning+%26+Breaking" alt="Typing SVG" />
 </p>
 
 ---
 
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF,FF00FF,FFFF00&center=true&vCenter=true&multiline=true&width=700&height=90&lines=OWASP+Top+10+Review;Secure+Coding+Practices;API+Security+Testing" alt="Modern Skills Typing Animation"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=burpsuite,owasp,python,linux,bash,git,docker,js,html,kali,metasploit,sqlmap,nmap,zap,raspberrypi,arduino" />
+<a href="https://twitter.com/0batexe1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter" alt="Twitter"></a>
+<a href="https://linkedin.com/in/feritbarankaya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-
-
 <p align="center">
-  <a href="https://cve.mitre.org/">
-    <img src="https://img.shields.io/badge/CVEs-Database-FF0000?style=for-the-badge&logo=datadog&logoColor=white" />
-  </a>
-  <a href="https://thehackernews.com/">
-    <img src="https://img.shields.io/badge/The%20Hacker%20News-Latest-000000?style=for-the-badge&logo=Tor-Browser&logoColor=white" />
-  </a>
-  <a href="https://www.exploit-db.com/">
-    <img src="https://img.shields.io/badge/Exploit%20DB-PoCs-orange?style=for-the-badge&logo=hackaday&logoColor=white" />
-  </a>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3poNDRiZjEyOXQ2NGJwMGl4OTc1cnBzajhwMHZrNG80ZzBkOGFjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnSWYZvafyhEACBO/giphy.gif" width="800" alt="Hacker GIF">
 </p>
 
 ---
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0batexe1&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00FF7F&icon_color=FF00FF&text_color=00FFFF" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0batexe1&layout=compact&theme=radical&hide_border=true&title_color=00FF7F&icon_color=FF00FF&text_color=00FFFF" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0batexe1&theme=radical" width="800" />
-</p>
+### 💻 Cyber Security News Feed
+- [Latest CVEs](https://cve.mitre.org/)
+- [The Hacker News](https://thehackernews.com/)
+- [Exploit Database](https://www.exploit-db.com/)
 
 ---
 
 ### 🧠 Hacker Quote
 > "The quieter you become, the more you are able to hear." — Kali Linux
+
+---
+
+### 🛠️ Skills
+```bash
+> nmap -sV -A target.com
+> sqlmap -u target.com --dbs
+> burpsuite > repeater
+> metasploit-framework
