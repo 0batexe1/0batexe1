@@ -34,13 +34,9 @@
 ### 🛠️ Skills
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=800&color=00FF00&center=true&vCenter=true&width=500&lines=%24+Nmap+-+Port+Scanning;BurpSuite+-+Web+Pentesting;SQLmap+-+Database+Exploitation;Metasploit+-+Exploit+Framework;Wireshark+-+Network+Analysis;Reverse+Engineering+%26+Malware+Analysis" alt="Hacker Skills Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF00&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%24+nmap+-sV+-A+target.com;>+BurpSuite+%7C+Repeater+%7C+Intruder;>+sqlmap+-u+target.com+--dbs;>+metasploit-framework+exploit+multi/handler;>+Wireshark+-+Deep+Packet+Inspection;>+Reverse+Engineering+%26+Malware+Analysis" alt="Skills Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,js,html,git,docker" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif" width="300" alt="Hacker terminal gif">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,js,html,git,docker,arduino,raspberrypi" />
 </p>
