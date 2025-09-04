@@ -19,9 +19,6 @@
 ---
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=dc143c&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%24+nmap+-sV+-A+target.com;>+BurpSuite+%7C+Repeater+%7C+Intruder;>+sqlmap+-u+target.com+--dbs;>+metasploit-framework+exploit+multi/handler;>+Wireshark+-+Deep+Packet+Inspection;>+Reverse+Engineering+%26+Malware+Analysis" alt="Skills Typing Animation" />
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,bash,git,kali,docker,arduino,raspberrypi" />
