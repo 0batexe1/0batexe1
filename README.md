@@ -32,8 +32,15 @@
 ---
 
 ### 🛠️ Skills
-```bash
-> nmap -sV -A target.com
-> sqlmap -u target.com --dbs
-> burpsuite > repeater
-> metasploit-framework
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=800&color=00FF00&center=true&vCenter=true&width=500&lines=%24+Nmap+-+Port+Scanning;BurpSuite+-+Web+Pentesting;SQLmap+-+Database+Exploitation;Metasploit+-+Exploit+Framework;Wireshark+-+Network+Analysis;Reverse+Engineering+%26+Malware+Analysis" alt="Hacker Skills Typing" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,js,html,git,docker" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif" width="300" alt="Hacker terminal gif">
+</p>
