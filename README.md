@@ -1,4 +1,4 @@
-<h1 align="center">👾 0bat.exe1</h1>
+<h1 align="center" style="color:#dc143c">👾 0bat.exe1</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=dc143c&center=true&vCenter=true&width=435&lines=Cyber+Security+Researcher;%24+Bug+Hunter;%7C+Exploit+Developer;%7C+Always+Learning+%26+Breaking" alt="Typing SVG" />
 </p>
