@@ -30,12 +30,19 @@
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Web Application Security Skills
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF00&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%24+nmap+-sV+-A+target.com;>+BurpSuite+%7C+Repeater+%7C+Intruder;>+sqlmap+-u+target.com+--dbs;>+metasploit-framework+exploit+multi/handler;>+Wireshark+-+Deep+Packet+Inspection;>+Reverse+Engineering+%26+Malware+Analysis" alt="Skills Typing Animation" />
+  
+  <!-- Terminal frame -->
+  <img src="https://raw.githubusercontent.com/0bat-exe1/0bat-exe1/main/assets/terminal-top.svg" width="600" alt="terminal top"/>
+  
+  <!-- Typing effect inside terminal -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF00&center=true&vCenter=true&multiline=true&width=600&height=120&lines=%24+SQLi+%7C+Union-based+Injection;>+XSS+%7C+DOM+%26+Stored+Payloads;>+CSRF+Exploitation+%7C+Bypass+Techniques;>+IDOR+%7C+Access+Control+Testing;>+SSRF+%7C+Request+Smuggling;>+RCE+%7C+File+Upload+Vulnerabilities" alt="WebAppSec Skills"/>
+  
+  <img src="https://raw.githubusercontent.com/0bat-exe1/0bat-exe1/main/assets/terminal-bottom.svg" width="600" alt="terminal bottom"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,js,html,git,docker,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,js,html,git,docker" />
 </p>
