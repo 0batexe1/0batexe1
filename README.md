@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=700&height=120&lines=💀+Web+Application+Security+Researcher;⚡+Exploits+%26+Offensive+Security;🌐+Bug+Hunter;🚀+Always+Breaking+to+Secure" alt="Typing Animation" />
 </p>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3poNDRiZjEyOXQ2NGJwMGl4OTc1cnBzajhwMHZrNG80ZzBkOGFjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnSWYZvafyhEACBO/giphy.gif" width="700" alt="Hacker GIF" />
+</p>
+
 ---
 
 ## 🛠️ WebAppSec Skills
