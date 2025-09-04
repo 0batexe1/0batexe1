@@ -20,17 +20,26 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF00&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%24+nmap+-sV+-A+target.com;>+BurpSuite+%7C+Repeater+%7C+Intruder;>+sqlmap+-u+target.com+--dbs;>+metasploit-framework+exploit+multi/handler;>+Wireshark+-+Deep+Packet+Inspection;>+Reverse+Engineering+%26+Malware+Analysis" alt="Skills Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=dc143c&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%24+nmap+-sV+-A+target.com;>+BurpSuite+%7C+Repeater+%7C+Intruder;>+sqlmap+-u+target.com+--dbs;>+metasploit-framework+exploit+multi/handler;>+Wireshark+-+Deep+Packet+Inspection;>+Reverse+Engineering+%26+Malware+Analysis" alt="Skills Typing Animation" />
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,bash,git,kali,docker,arduino,raspberrypi" />
 </p>
 
-### 💻 Cyber Security News Feed
-- [Latest CVEs](https://cve.mitre.org/)
-- [The Hacker News](https://thehackernews.com/)
-- [Exploit Database](https://www.exploit-db.com/)
+<p align="center">
+  <a href="https://cve.mitre.org/">
+    <img src="https://img.shields.io/badge/CVEs-Database-FF0000?style=for-the-badge&logo=datadog&logoColor=white" />
+  </a>
+  <a href="https://thehackernews.com/">
+    <img src="https://img.shields.io/badge/The%20Hacker%20News-Latest-000000?style=for-the-badge&logo=Tor-Browser&logoColor=white" />
+  </a>
+  <a href="https://www.exploit-db.com/">
+    <img src="https://img.shields.io/badge/Exploit%20DB-PoCs-orange?style=for-the-badge&logo=hackaday&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ---
 
